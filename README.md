@@ -21,3 +21,7 @@
 * KotlinX Serialization
 * Coil Image Loading Library
 * Both Light and Dark Theme Design
+
+
+https://user-images.githubusercontent.com/50237875/165527392-e3b12841-c2c4-41bf-a0e9-daea62036955.mp4
+
